@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 About Me
+---
 I'm an Engineering Manager and Software Architect at Caylent, a next-generation cloud services company that helps you adapt with speed and drive intelligent growth by leveraging our AI and AWS expertise.
 
 With a strong passion for Spec Driven Development and clean architecture, I bridge the gap between business requirements and technical implementation. I believe that well-crafted specifications are the foundation of successful software projects.
@@ -25,12 +26,14 @@ I'm actively working on developer-kit, a comprehensive toolkit for Spec Driven D
 --> 
 
 ## 🚀 What I Do
+---
 Architecture Design: Crafting scalable, maintainable software architectures
 Spec Driven Development: Advocating for specification-first development workflows
 Team Leadership: Leading development teams to deliver high-quality software
 Technical Consulting: Helping businesses leverage technology strategically
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
+---
 Backend/Enterprise
 Languages: Java, Python, Golang and Typescript
 Frameworks: Spring Boot
