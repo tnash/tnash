@@ -19,8 +19,10 @@ I'm an Engineering Manager and Software Architect at Caylent, a next-generation 
 
 With a strong passion for Spec Driven Development and clean architecture, I bridge the gap between business requirements and technical implementation. I believe that well-crafted specifications are the foundation of successful software projects.
 
+<!--
 ## 🔥 Current Focus
 I'm actively working on developer-kit, a comprehensive toolkit for Spec Driven Development with Claude Code. This project represents my commitment to transforming how we approach software development by putting specifications first.
+--> 
 
 ## 🚀 What I Do
 Architecture Design: Crafting scalable, maintainable software architectures
