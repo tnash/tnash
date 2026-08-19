@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 About Me
-I'm a Software Architect & Partner at f.technology, a software factory specializing in custom software development for innovative startups, digital agencies, and enterprises.
+I'm an Engineering Manager and Software Architect & Caylent, a cloud consulting company specializing in AWS.
 
 With a strong passion for Spec Driven Development and clean architecture, I bridge the gap between business requirements and technical implementation. I believe that well-crafted specifications are the foundation of successful software projects.
 
