@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 About Me
-I'm an Engineering Manager and Software Architect & Caylent, a cloud consulting company specializing in AWS.
+I'm an Engineering Manager and Software Architect at Caylent, a next-generation cloud services company that helps you adapt with speed and drive intelligent growth by leveraging our AI and AWS expertise.
 
 With a strong passion for Spec Driven Development and clean architecture, I bridge the gap between business requirements and technical implementation. I believe that well-crafted specifications are the foundation of successful software projects.
 
